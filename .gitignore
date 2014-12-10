@@ -4,7 +4,15 @@ ehthumbs.db
 bower_components
 node_modules
 build
+client
 .sass-cache
+bower.json
+gemfile
+gemfile.lock
+gulpfile.js
+package.json
+
+
 # Folder config file
 Desktop.ini
 
